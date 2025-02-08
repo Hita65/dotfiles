@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ana.msv05@gmail.com
+	name = anahita mousavi
